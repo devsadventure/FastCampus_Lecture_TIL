@@ -9,7 +9,7 @@
 ```
 <iframe src="https://giphy.com/embed/u4KibgMsDLWM0" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brain-sheldon-big-bang-theory-u4KibgMsDLWM0">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/l46Cgwa9YZNNrEQla" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-l46Cgwa9YZNNrEQla">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l46Cgwa9YZNNrEQla" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-l46Cgwa9YZNNrEQla"></a></p>
 ```
 
 그러다가, 이 영상을 보게 되었습니다. 아마 많은 분들이 보셨을 영상일겁니다. code.org 에서 만든 영상인 "What Most Schools Don't Teach"입니다.
